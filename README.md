@@ -22,6 +22,7 @@
 * SOLID
 * Clean Code
 * ORM (Entity Framework)
+* Web Service (Restful)
 * Design Patterns
 * AOP (Validation, Caching, Transaction, Performance vb.)
 * JWT

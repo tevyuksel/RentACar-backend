@@ -28,6 +28,7 @@
 * JWT
 * CCC (Validation, Caching)
 * LINQ
+* Custom Error Middleware
 * Autofac
 * Fluent Validation
 * Diğer yardımcı araçlar (IoC, Security, Results vb.)

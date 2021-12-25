@@ -35,6 +35,6 @@
 
 - - -
 
-Rent A Car projemin Angular ile geliştirmiş olduğum frontend kısmı için tıklayın! (En yakın zamanda eklenecek)
+Rent A Car projemin frontend Angular kısmı en yakın zamanda eklenecektir.
 
 - - -
